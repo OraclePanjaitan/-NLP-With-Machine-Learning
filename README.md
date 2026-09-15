@@ -15,19 +15,13 @@ An end-to-end Natural Language Processing (NLP) project that evaluates text sent
 
 ## Tools & Technologies
 
-| Category | Tools / Libraries |
-| --- | --- |
-| **Language** | Python
 
- |
-| **Data Handling** | `pandas`<br> |
-| **NLP & Sentiment** | `vaderSentiment` (`SentimentIntensityAnalyzer`), `maven_text_preprocessing`<br> |
-| **Machine Learning** | `scikit-learn` (`CountVectorizer`, `TfidfVectorizer`, `MultinomialNB`, `LogisticRegression`, `train_test_split`, `accuracy_score`, `classification_report`)
+**Data Handling**  `pandas`<br> 
+**NLP & Sentiment**  `vaderSentiment` (`SentimentIntensityAnalyzer`), `maven_text_preprocessing`<br>
+**Machine Learning**  `scikit-learn` (`CountVectorizer`, `TfidfVectorizer`, `MultinomialNB`, `LogisticRegression`, `train_test_split`, `accuracy_score`, `classification_report`)
 
- |
-| **Environment** | Jupyter Notebook (`nlp_machine_learning` environment)
+**Environment** | Jupyter Notebook (`nlp_machine_learning` environment)
 
- |
 
 ## Methodology
 
